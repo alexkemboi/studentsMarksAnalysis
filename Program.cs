@@ -4,6 +4,8 @@ class Program
 {
     public static void Main(string[] args)
     {
+
+        Console.WriteLine("Welcome to students marks analysis"); 
         StudentsScores studentsScores = new StudentsScores();
         studentsScores.Main();
     }
@@ -56,7 +58,6 @@ class StudentsScores
     public void Main()
     {
         StudentsScores studentsScores = new StudentsScores();
-        Console.WriteLine("Welcome to students marks analysis");
         Console.WriteLine("Choose an option");
         Console.WriteLine("1:Add Marks");
         Console.WriteLine("2:View analysis");
