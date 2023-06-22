@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\studentGrades\bin\Debug\net8.0\studentGrades.exe
+C:\Users\akemboi\source\repos\studentGrades\bin\Debug\net8.0\studentGrades.deps.json
+C:\Users\akemboi\source\repos\studentGrades\bin\Debug\net8.0\studentGrades.runtimeconfig.json
+C:\Users\akemboi\source\repos\studentGrades\bin\Debug\net8.0\studentGrades.dll
+C:\Users\akemboi\source\repos\studentGrades\bin\Debug\net8.0\studentGrades.pdb
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.dll
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\refint\studentGrades.dll
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.pdb
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\ref\studentGrades.dll
