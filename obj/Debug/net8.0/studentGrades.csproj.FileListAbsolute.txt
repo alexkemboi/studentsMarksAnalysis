@@ -13,3 +13,4 @@ C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\refint\studentGrade
 C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.pdb
 C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.genruntimeconfig.cache
 C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\ref\studentGrades.dll
+C:\Users\akemboi\source\repos\studentGrades\obj\Debug\net8.0\studentGrades.sourcelink.json
